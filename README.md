@@ -1,7 +1,7 @@
 # LemonChat.app 🍋
 
 <div align="center">
-  <img src="https://lemonchat.app/img/logo.png" alt="LemonChat Logo" width="200"/>
+  <img src="https://lemonchat.app/img/logo.png" alt="LemonChat Logo" width="600"/>
   
   [Visit LemonChat.app](https://lemonchat.app)
 </div>
